@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "standard"
+  ],
+  "parser": "babel-eslint",
+  "globals": {
+    "CustomElements": false,
+    "devicePixelRatio": false,
+    "TextEncoder": false,
+    "TextDecoder": false,
+    "HTMLImports": false,
+    "Polymer": false
+  }
+}
