@@ -13,7 +13,7 @@
     "eslint-config-standard-jsx": "^10.0.0",
     "eslint-plugin-promise": "^5.1.0",
     "gulp": "^4.0.2",
-    "sw-precache": "^5.2.1"
+    "sw-precache": "^4.1.0"
   },
   "dependencies": {
     "babel-eslint": "^10.1.0",
