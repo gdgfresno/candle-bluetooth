@@ -8,16 +8,16 @@
   "author": "Sandro Kock <sandro.kock@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": ">=7.32.0",
+    "eslint": ">=8.9.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-config-standard-jsx": "^10.0.0",
-    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-promise": "^6.0.0",
     "gulp": "^4.0.2",
     "sw-precache": "^4.1.0"
   },
   "dependencies": {
     "babel-eslint": "^10.1.0",
-    "standard": "^16.0.3"
+    "standard": "^16.0.4"
   },
   "description": ""
 }
